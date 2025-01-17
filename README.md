@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pdoif-creator
--my telegram:s @pdoif
+-my telegram: @pdoif
 -my discord: pdoif
 <!---
 pdoif-creator/pdoif-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
